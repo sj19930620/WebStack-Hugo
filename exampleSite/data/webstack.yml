@@ -1,4 +1,10 @@
 ---
+- taxonomy: 内部系统
+  icon: far fa-star
+  links: 
+    - title: 蓝湖
+      logo: 蓝湖.webp
+      url: http://lanhuapp.fujisoft-china.com/
 
 - taxonomy: 常用推荐
   icon: far fa-star
