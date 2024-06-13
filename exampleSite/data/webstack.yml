@@ -5,6 +5,16 @@
     - title: 蓝湖
       logo: 蓝湖.webp
       url: http://lanhuapp.fujisoft-china.com/
+    - title: 墨刀
+      logo: 墨刀.webp
+      url: https://iotdev.daikin.net.cn:9080/
+    - title: 禅道
+      logo: 禅道.webp
+      url: https://iotdev.daikin.net.cn/
+    - title: 华为云
+      logo: 华为.jpeg
+      url: https://auth.huaweicloud.com/authui/login.html?id=hw_008618221119299_01#/login
+      description: UAT环境
 
 - taxonomy: 常用推荐
   icon: far fa-star
