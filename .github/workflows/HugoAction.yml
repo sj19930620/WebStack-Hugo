@@ -31,7 +31,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3	  # 一个自动发布 github pages 的 action
         with:
           external_repository: sj19930620/sj19930620.github.io	  # 发布到哪个 repo
-          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	# 发布到其他 repo 需要在对应的 repo 上粘贴生成的 personal_access_token
+          personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}	# 发布到其他 repo 需要在对应的 repo 上粘贴生成的 personal_access_token
           #1. 创建 Personal_Access_Token：
           #   GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens ->  Tokens (classic) -> New personal access token (classic)
           #   - Expiration: No expiration
