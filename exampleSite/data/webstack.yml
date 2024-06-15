@@ -30,13 +30,23 @@
       logo: logo.8ca3cb91.svg
       url: https://smart-gateway.fujisoft-china.com/
     - title: APP内容管理平台
-      logo: 编组.png
+      logo: logo.png
       url: https://cms-test.newtouch.com/
       description: UAT环境
     - title: APP内容管理平台
-      logo: 编组.png
+      logo: logo.png
       url: https://newlifemulti-cms.daikin-china.com.cn/
       description: 正式环境
+
+- taxonomy: 工具
+  icon: far fa-star
+  links: 
+    - title: COPILOT
+      logo: microsoft.jpeg
+      url: https://copilot.microsoft.com/
+    - title: LobeChat
+      logo: lobechat.webp
+      url: http://192.168.16.79:43200/lo
 
 - taxonomy: 常用推荐
   icon: far fa-star
