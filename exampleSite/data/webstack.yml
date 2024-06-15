@@ -15,6 +15,20 @@
       logo: 华为.jpeg
       url: https://auth.huaweicloud.com/authui/login.html?id=hw_008618221119299_01#/login
       description: UAT环境
+    - title: 大福
+      logo: 大福.png
+      url: https://test-scc.daikin.net.cn/login
+      description: 大福测试环境
+    - title: 大福
+      logo: 大福.png
+      url: https://dkc.daikin.net.cn/login
+      description: 大福正式环境
+    - title: 埋点
+      logo: 埋点.png
+      url: https://newlifemulti-ubl3.daikin-china.com.cn/userLogin
+    - title: 金制家中后台管理系统
+      logo: logo.8ca3cb91.svg
+      url: https://smart-gateway.fujisoft-china.com/
 
 - taxonomy: 常用推荐
   icon: far fa-star
