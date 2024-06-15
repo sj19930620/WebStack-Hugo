@@ -53,7 +53,7 @@
   icon: far fa-tools
   links: 
     - title: COPILOT
-      logo: microsoft.jpeg
+      logo: miscrosoft.jpeg
       url: https://copilot.microsoft.com/
     - title: LobeChat
       logo: lobechat.webp
