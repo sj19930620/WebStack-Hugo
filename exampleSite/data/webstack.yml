@@ -1,6 +1,6 @@
 ---
 - taxonomy: 内部系统
-  icon: far fa-star
+  icon: far fa-grid-2
   links: 
     - title: 蓝湖
       logo: 蓝湖.webp
@@ -64,6 +64,29 @@
     - title: 石墨文档
       logo: 石墨.webp
       url: https://shimo.im/loginByPassword?from=home
+
+- taxonomy: 信息渠道
+  icon: far fa-star
+  links: 
+    - title: 知乎
+      logo: 知乎.jpeg
+      url: https://zhihu.com/
+    - title: 全国标准信息公共服务平台
+      logo: std.png
+      url: https://std.samr.gov.cn/gb
+    - title: 国家企业信用信息公示系统
+      logo: gov.png
+      url: https://www.gsxt.gov.cn/index.html
+    - title: 人人都是产品经理
+      logo: pm.png
+      url: https://www.woshipm.com/
+    - title: 少数派
+      logo: sspai.webp
+      url: https://sspai.com/
+    - title: 前沿知识库
+      logo: zhishiku.webp
+      url: https://wk.askci.com/
+
 
 - taxonomy: 常用推荐
   icon: far fa-star
