@@ -50,7 +50,7 @@
       description: 考勤
 
 - taxonomy: 工具
-  icon: far fa-tools
+  icon: far fa-toolbox
   links: 
     - title: COPILOT
       logo: miscrosoft.jpeg
