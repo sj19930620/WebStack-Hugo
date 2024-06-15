@@ -1,6 +1,6 @@
 ---
 - taxonomy: 内部系统
-  icon: far fa-grid-2
+  icon: far fa-browser
   links: 
     - title: 蓝湖
       logo: 蓝湖.webp
@@ -81,7 +81,7 @@
       logo: pm.png
       url: https://www.woshipm.com/
     - title: 少数派
-      logo: sspai.webp
+      logo: sspai.png
       url: https://sspai.com/
     - title: 前沿知识库
       logo: zhishiku.webp
