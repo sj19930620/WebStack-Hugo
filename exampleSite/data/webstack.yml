@@ -29,6 +29,14 @@
     - title: 金制家中后台管理系统
       logo: logo.8ca3cb91.svg
       url: https://smart-gateway.fujisoft-china.com/
+    - title: APP内容管理平台
+      logo: 编组.png
+      url: https://cms-test.newtouch.com/
+      description: UAT环境
+    - title: APP内容管理平台
+      logo: 编组.png
+      url: https://newlifemulti-cms.daikin-china.com.cn/
+      description: 正式环境
 
 - taxonomy: 常用推荐
   icon: far fa-star
