@@ -37,6 +37,17 @@
       logo: logo.png
       url: https://newlifemulti-cms.daikin-china.com.cn/
       description: 正式环境
+    - title: 大金样本库
+      logo: wenku.png
+      url: https://js-wenku.daikin.net.cn/Page/Sreach/easylogin/  
+    - title: 大办
+      logo: baoxiao.png
+      url: https://daban.intra.daikin.net.cn/
+      description: 出差报销软件安装禀议申请
+    - title: sns
+      logo: sns.png
+      url: https://sns.daikin.net.cn/
+      description: 考勤
 
 - taxonomy: 工具
   icon: far fa-star
@@ -46,7 +57,13 @@
       url: https://copilot.microsoft.com/
     - title: LobeChat
       logo: lobechat.webp
-      url: http://192.168.16.79:43200/lo
+      url: http://192.168.16.79:43200
+    - title: AItianhu
+      logo: openai.webp
+      url: https://ud64ft.aitianhu1.top/
+    - title: 石墨文档
+      logo: 石墨.webp
+      url: https://shimo.im/loginByPassword?from=home
 
 - taxonomy: 常用推荐
   icon: far fa-star
